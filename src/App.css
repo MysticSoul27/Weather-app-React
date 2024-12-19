@@ -1,0 +1,8 @@
+.main{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url('./assets/weather-app-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
